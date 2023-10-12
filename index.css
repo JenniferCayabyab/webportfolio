@@ -2,5 +2,8 @@
 	background-color: #41e0e0;
 }
 
+html {
+  scroll-behavior: smooth;
+}
 
 
